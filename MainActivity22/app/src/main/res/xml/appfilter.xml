@@ -79,8 +79,8 @@
 		<item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltocom.android.vendingnight.android.prod.HoteltonightActivity}" drawable="rename_me_hotel_tonight"/>
 		<item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="com_pandora_android"/>.
 		<item component="ComponentInfo{com.pandora.android/com.pandora.android.Toggler}" drawable="com_pandora_android"/>
-		<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="com_google_android_apps_books"/>
-		<item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}" drawable="com_google_android_apps_books"/>
+                <item component="ComponentInfo{net.nightwhistler.pageturner/net.nightwhistler.pageturner.activity.ReadingActivity}" drawable="net_nightwhistler_pageturner"/>
+                <item component="ComponentInfo{net.nightwhistler.pageturner/net.nightwhistler.pageturner.activity.CatalogBookDetailsActivity}" drawable="net_nightwhistler_pageturner"/>
 		<item component="ComponentInfo{megabyte.tlite/megabyte.tlite.activity.MainActivity}" drawable="rename_me_torrent_video_downloader"/>
 		<item component="ComponentInfo{com.tassadar.multirommgr/com.tassadar.multirommgr.MainActivity}" drawable="rename_me_multirom"/>
 		<item component="ComponentInfo{com.tassadar.multirommgr/com.tassadar.multirommgr.MultiROMMgrActivity}" drawable="rename_me_multirom"/>
