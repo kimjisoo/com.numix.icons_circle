@@ -430,7 +430,7 @@
 		<item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="org_leetzone_android_yatsewidgetfree"/>
 		<item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.HomeActivity}" drawable="org_leetzone_android_yatsewidgetfree"/>
 		<item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.HostChooserActivity}" drawable="org_leetzone_android_yatsewidgetfree"/>
-		<item component="ComponentInfo{org.wikipedia.beta/org.wikipedia.beta.page.PageActivity}" drawable="org_wikipedia"/>
+		<item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="org_wikipedia"/>
 		<item component="ComponentInfo{org.wikipedia/org.wikipedia.WikipediaActivity}" drawable="org_wikipedia"/>
 		<item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity}" drawable="stericson_busybox"/>
 		<item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.Activity.MainActivity}" drawable="stericson_busybox"/>
