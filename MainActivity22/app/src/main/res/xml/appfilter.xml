@@ -330,7 +330,7 @@
         <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="com_laurencedawson_reddit_sync"/>
         <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="com_laurencedawson_reddit_sync"/>
 
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="com_laurencedawson_reddit_sync_pro"/>
+        <item component="ComponentInfo{org.quantumbadger.redreader/org.quantumbadger.redreader.activities.MainActivity}" drawable="org_quantumbadger_redreader"/>
         <item component="ComponentInfo{com.mapquest.android.ace/com.mapquest.android.ace.MainActivity}" drawable="com_mapquest_android_ace"/>
         <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="com_motorola_camera"/>
         <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.app.DashboardActivity}" drawable="com_motorola_genie"/>
