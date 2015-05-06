@@ -211,7 +211,7 @@
 		<item component="ComponentInfo{}" drawable="com_android_gallery3d_alt"/>
 		<item component="ComponentInfo{me.kiip.skeemo/me.kiip.skeemo.ui.MainActivity}" drawable="me_kiip_skeemo"/>
 		<item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.NemesisActivity}" drawable="rename_me_ingress"/>
-		<item component="ComponentInfo{}" drawable="rename_me_android_music_player"/>
+                <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="github_daneren2005_dsub"/>
 		<item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="com_google_android_apps_chrome"/>
 		<item component="ComponentInfo{com.onelouder.baconreader.premium/com.onelouder.baconreader.FrontPage}" drawable="com_onelouder_baconreader"/>
         <item component="ComponentInfo{com.onelouder.baconreader/com.onelouder.baconreader.LoginActivity}" drawable="com_onelouder_baconreader"/>
