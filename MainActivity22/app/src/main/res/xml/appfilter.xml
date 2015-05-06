@@ -472,6 +472,9 @@
 		<item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
 		<item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="com_tumblr"/>
 
+                <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="de_danoeh_antennapod"/>
+                <item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.AudioplayerActivity}" drawable="de_danoeh_antennapod"/>
+
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
 
