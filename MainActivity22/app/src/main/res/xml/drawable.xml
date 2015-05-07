@@ -285,5 +285,7 @@
        <item drawable="rename_me_google_fit"/>
        <item drawable="rename_me_inbox"/>
        <item drawable="de_danoeh_antennapod" />
+       <item drawable="org_dmfs_tasks"/>
+       <item drawable="com_android_keepass"/>
  
 </resources>

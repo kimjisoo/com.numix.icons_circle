@@ -477,5 +477,9 @@
 
 		<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.MainActivity}" drawable="de_danoeh_antennapod"/>
 		<item component="ComponentInfo{de.danoeh.antennapod/de.danoeh.antennapod.activity.AudioplayerActivity}" drawable="de_danoeh_antennapod"/>
+		<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.TaskListActivity}" drawable="org_dmfs_tasks"/>
+		<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.ViewTaskActivity}" drawable="org_dmfs_tasks"/>
+		<item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.EditTaskActivity}" drawable="org_dmfs_tasks"/>
+		<item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="com_android_keepass"/>
 
 </resources>
