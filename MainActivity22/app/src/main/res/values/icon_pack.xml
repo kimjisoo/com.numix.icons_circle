@@ -310,6 +310,7 @@
       <item>net_daum_android_map</item>
       <item>com_duckduckgo_mobile_android</item>
       <item>org_fdroid_fdroid</item>
+      <item>com_cyanogenmod_filemanager</item>
    </string-array>
 
 </resources>
