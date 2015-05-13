@@ -313,6 +313,7 @@
       <item>com_cyanogenmod_filemanager</item>
       <item>nodomain_freeyourgadget_gadgetbridge</item>
       <item>org_xbmc_kore</item>
+      <item>com_namelessdev_mpdroid</item>
    </string-array>
 
 </resources>
