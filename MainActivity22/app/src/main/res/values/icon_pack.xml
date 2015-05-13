@@ -312,6 +312,7 @@
       <item>org_fdroid_fdroid</item>
       <item>com_cyanogenmod_filemanager</item>
       <item>nodomain_freeyourgadget_gadgetbridge</item>
+      <item>org_xbmc_kore</item>
    </string-array>
 
 </resources>

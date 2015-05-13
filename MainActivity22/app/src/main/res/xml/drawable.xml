@@ -292,5 +292,6 @@
        <item drawable="org_fdroid_fdroid"/>
        <item drawable="com_cyanogenmod_filemanager"/>
        <item drawable="nodomain_freeyourgadget_gadgetbridge"/>
+       <item drawable="org_xbmc_kore"/>
  
 </resources>
