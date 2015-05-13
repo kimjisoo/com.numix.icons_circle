@@ -291,5 +291,6 @@
        <item drawable="com_duckduckgo_mobile_android"/>
        <item drawable="org_fdroid_fdroid"/>
        <item drawable="com_cyanogenmod_filemanager"/>
+       <item drawable="nodomain_freeyourgadget_gadgetbridge"/>
  
 </resources>

@@ -311,6 +311,7 @@
       <item>com_duckduckgo_mobile_android</item>
       <item>org_fdroid_fdroid</item>
       <item>com_cyanogenmod_filemanager</item>
+      <item>nodomain_freeyourgadget_gadgetbridge</item>
    </string-array>
 
 </resources>
