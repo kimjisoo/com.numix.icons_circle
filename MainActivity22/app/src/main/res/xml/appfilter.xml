@@ -495,6 +495,8 @@
                 <item component="ComponentInfo{org.transdroid.full/org.transdroid.full.core.gui.TorrentsActivity_}" drawable="org_transdroid_full"/>
                 <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="org_cyanogenmod_theme_chooser"/>
                 <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}" drawable="com_nutomic_syncthingandroid"/>
+                <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
+                <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="dk_jens_backup"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />

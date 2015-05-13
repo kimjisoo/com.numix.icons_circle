@@ -321,6 +321,8 @@
       <item>org_transdroid_full</item>
       <item>org_cyanogenmod_theme_chooser</item>
       <item>com_nutomic_syncthingandroid</item>
+      <item>com_android_soundrecorder</item>
+      <item>dk_jens_backup</item>
    </string-array>
 
 </resources>

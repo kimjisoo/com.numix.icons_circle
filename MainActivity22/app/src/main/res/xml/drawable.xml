@@ -301,5 +301,7 @@
        <item drawable="org_transdroid_full"/>
        <item drawable="org_cyanogenmod_theme_chooser"/>
        <item drawable="com_nutomic_syncthingandroid"/>
+       <item drawable="com_android_soundrecorder"/>
+       <item drawable="dk_jens_backup"/>
  
 </resources>
