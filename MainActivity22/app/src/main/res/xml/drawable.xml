@@ -299,5 +299,6 @@
        <item drawable="com_xda_one"/>
        <item drawable="org_wikipedia"/>
        <item drawable="org_transdroid_full"/>
+       <item drawable="org_cyanogenmod_theme_chooser"/>
  
 </resources>
