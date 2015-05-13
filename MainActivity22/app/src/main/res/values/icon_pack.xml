@@ -284,6 +284,7 @@
       <item>org_dmfs_tasks</item>
       <item>com_android_keepass</item>
       <item>net_daum_android_map</item>
+      <item>com_duckduckgo_mobile_android</item>
    </string-array>
 
        <string-array name="latesticons">

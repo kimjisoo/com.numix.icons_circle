@@ -481,6 +481,7 @@
                 <item component="ComponentInfo{org.dmfs.tasks/org.dmfs.tasks.EditTaskActivity}" drawable="org_dmfs_tasks"/>
                 <item component="ComponentInfo{com.android.keepass/com.android.keepass.KeePass}" drawable="com_android_keepass"/>
                 <item component="ComponentInfo{net.daum.android.map/net.daum.android.map.MapMainActivity}" drawable="net_daum_android_map"/>
+                <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="com_duckduckgo_mobile_android.png"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
