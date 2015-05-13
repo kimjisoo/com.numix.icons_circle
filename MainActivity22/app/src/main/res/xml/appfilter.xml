@@ -491,8 +491,8 @@
                 <item component="ComponentInfo{org.openbmap/org.openbmap.activities.StartScreenActivity}" drawable="org_openbmap"/>
                 <item component="ComponentInfo{com.xda.one/com.xda.one.ui.MainActivity}" drawable="com_xda_one"/>
                 <item component="ComponentInfo{org.wikipedia/org.wikipedia.page.PageActivity}" drawable="org_wikipedia"/>
-                <item component="ComponentInfo{org.transdroid.full/org.transdroid.full.core.gui.TorrentsActivity}" drawable="org_transdroid_full"/>
-                <item component="ComponentInfo{org.transdroid.full/org.transdroid.full.core.gui.TorrentsActivity_}" drawable="org_transdroid_full"/>
+                <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity}" drawable="org_transdroid_full"/>
+                <item component="ComponentInfo{org.transdroid.full/org.transdroid.core.gui.TorrentsActivity_}" drawable="org_transdroid_full"/>
                 <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="org_cyanogenmod_theme_chooser"/>
                 <item component="ComponentInfo{com.nutomic.syncthingandroid/com.nutomic.syncthingandroid.activities.MainActivity}" drawable="com_nutomic_syncthingandroid"/>
                 <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
