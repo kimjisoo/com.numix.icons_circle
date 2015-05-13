@@ -324,6 +324,8 @@
       <item>com_android_soundrecorder</item>
       <item>dk_jens_backup</item>
       <item>org_sufficientlysecure_keychain</item>
+      <item>com_willhauck_linconnectclient</item>
+      <item>com_catchingnow_tinyclipboardmanager</item>
    </string-array>
 
 </resources>

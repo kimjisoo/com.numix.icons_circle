@@ -498,6 +498,8 @@
                 <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="com_android_soundrecorder"/>
                 <item component="ComponentInfo{dk.jens.backup/dk.jens.backup.OAndBackup}" drawable="dk_jens_backup"/>
                 <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="org_sufficientlysecure_keychain"/>
+                <item component="ComponentInfo{com.willhacuk.linconnectclient/com.willhacuk.linconnectclient.SettingsActivity}" drawable="com_willhauck_linconnectclient"/>
+                <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.ActivityMain}" drawable="com_catchingnow_tinyclipboardmanager"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />

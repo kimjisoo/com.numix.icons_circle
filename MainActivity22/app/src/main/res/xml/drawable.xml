@@ -304,5 +304,7 @@
        <item drawable="com_android_soundrecorder"/>
        <item drawable="dk_jens_backup"/>
        <item drawable="org_sufficientlysecure_keychain"/>
+       <item drawable="com_willhauck_linconnectclient"/>
+       <item drawable="com_catchingnow_tinyclipboardmanager"/>
  
 </resources>
