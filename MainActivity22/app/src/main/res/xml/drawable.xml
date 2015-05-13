@@ -294,5 +294,7 @@
        <item drawable="nodomain_freeyourgadget_gadgetbridge"/>
        <item drawable="org_xbmc_kore"/>
        <item drawable="com_namelessdev_mpdroid"/>
+       <item drawable="org_omnirom_omniswitch"/>
+       <item drawable="org_openbmap"/>
  
 </resources>
