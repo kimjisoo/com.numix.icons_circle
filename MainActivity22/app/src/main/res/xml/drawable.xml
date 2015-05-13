@@ -287,5 +287,6 @@
        <item drawable="de_danoeh_antennapod" />
        <item drawable="org_dmfs_tasks"/>
        <item drawable="com_android_keepass"/>
+       <item drawable="net_daum_android_map"/>
  
 </resources>
