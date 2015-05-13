@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+    <string-array name="latesticons">
+    </string-array>
+
+    <!-- SYSTEM ICONS -->
+    <!-- System icons listed here -->
+    <string-array name="systemicons">
+    </string-array>
+
+    <!-- PLAY ICONS -->
+    <!-- Play Store icons listed here -->
+	<string-array name="playicons">
+    </string-array>
+
+    <!-- GAMES ICONS -->
+    <!-- Game icons listed here -->
+    <string-array name="gamesicons">
+    </string-array>
+
+    <!-- MISC ICONS -->
+    <!-- Misc icons listed here -->
+    <string-array name="miscicons">
+    </string-array>
+
+
    <string-array name="icon_pack" translatable="true">
        <item>com_adobe_reader</item>
        <item>rename_me_google_people</item>
@@ -286,28 +310,5 @@
       <item>net_daum_android_map</item>
       <item>com_duckduckgo_mobile_android</item>
    </string-array>
-
-       <string-array name="latesticons">
-    </string-array>
-
-    <!-- SYSTEM ICONS -->
-    <!-- System icons listed here -->
-    <string-array name="systemicons">
-    </string-array>
-
-    <!-- PLAY ICONS -->
-    <!-- Play Store icons listed here -->
-	<string-array name="playicons">
-    </string-array>
-
-    <!-- GAMES ICONS -->
-    <!-- Game icons listed here -->
-    <string-array name="gamesicons">
-    </string-array>
-
-    <!-- MISC ICONS -->
-    <!-- Misc icons listed here -->
-    <string-array name="miscicons">
-    </string-array>
 
 </resources>
