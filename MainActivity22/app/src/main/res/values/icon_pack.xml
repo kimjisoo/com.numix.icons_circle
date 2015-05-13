@@ -309,6 +309,7 @@
       <item>com_android_keepass</item>
       <item>net_daum_android_map</item>
       <item>com_duckduckgo_mobile_android</item>
+      <item>org_fdroid_fdroid</item>
    </string-array>
 
 </resources>
