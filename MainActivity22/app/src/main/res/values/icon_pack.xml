@@ -323,6 +323,7 @@
       <item>com_nutomic_syncthingandroid</item>
       <item>com_android_soundrecorder</item>
       <item>dk_jens_backup</item>
+      <item>org_sufficientlysecure_keychain</item>
    </string-array>
 
 </resources>
