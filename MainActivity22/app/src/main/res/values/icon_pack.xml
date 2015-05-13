@@ -320,6 +320,7 @@
       <item>org_wikipedia</item>
       <item>org_transdroid_full</item>
       <item>org_cyanogenmod_theme_chooser</item>
+      <item>com_nutomic_syncthingandroid</item>
    </string-array>
 
 </resources>

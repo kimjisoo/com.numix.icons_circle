@@ -300,5 +300,6 @@
        <item drawable="org_wikipedia"/>
        <item drawable="org_transdroid_full"/>
        <item drawable="org_cyanogenmod_theme_chooser"/>
+       <item drawable="com_nutomic_syncthingandroid"/>
  
 </resources>
