@@ -484,7 +484,7 @@
                 <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="com_duckduckgo_mobile_android"/>
                 <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="org_fdroid_fdroid"/>
                 <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="com_cyanogenmod_filemanager"/>
-                <item component="ComponentInfo{nodomain.freeyourgadget.gradgetbridge/nodomain.freeyourgadget.gradgetbridge.ControlCenter}" drawable="nodomain_freeyourgadget_gadgetbridge"/>
+                <item component="ComponentInfo{nodomain.freeyourgadget.gadgetbridge/nodomain.freeyourgadget.gadgetbridge.ControlCenter}" drawable="nodomain_freeyourgadget_gadgetbridge"/>
                 <item component="ComponentInfo{org.xbmc.kore/org.xbmc.kore.ui.RemoteActivity}" drawable="org_xbmc_kore"/>
                 <item component="ComponentInfo{com.namelessdev.mpdroid/com.namelessdev.mpdroid.MainMenuActivity}" drawable="com_namelessdev_mpdroid"/>
                 <item component="ComponentInfo{org.omnirom.omniswitch/org.omnirom.omniswitch.SettingsActivity}" drawable="org_omnirom_omniswitch"/>
