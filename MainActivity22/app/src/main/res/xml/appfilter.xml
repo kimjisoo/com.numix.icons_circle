@@ -500,6 +500,8 @@
                 <item component="ComponentInfo{org.sufficientlysecure.keychain/org.sufficientlysecure.keychain.ui.MainActivity}" drawable="org_sufficientlysecure_keychain"/>
                 <item component="ComponentInfo{com.willhacuk.linconnectclient/com.willhacuk.linconnectclient.SettingsActivity}" drawable="com_willhauck_linconnectclient"/>
                 <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.ActivityMain}" drawable="com_catchingnow_tinyclipboardmanager"/>
+                <item component="ComponentInfo{org.dmfs.carddav.Sync/org.dmfs.carddav.lib.AccountChooserActivity}" drawable="org_dmfs_carddav_sync"/>
+                <item component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.caldav.lib.AccountChooserActivity}" drawable="org_dmfs_caldav_lib"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />

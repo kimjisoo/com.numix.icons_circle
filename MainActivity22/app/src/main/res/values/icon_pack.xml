@@ -326,6 +326,8 @@
       <item>org_sufficientlysecure_keychain</item>
       <item>com_willhauck_linconnectclient</item>
       <item>com_catchingnow_tinyclipboardmanager</item>
+      <item>org_dmfs_carddav_sync</item>
+      <item>org_dmfs_caldav_lib</item>
    </string-array>
 
 </resources>

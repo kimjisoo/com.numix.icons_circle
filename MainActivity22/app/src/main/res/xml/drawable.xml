@@ -306,5 +306,7 @@
        <item drawable="org_sufficientlysecure_keychain"/>
        <item drawable="com_willhauck_linconnectclient"/>
        <item drawable="com_catchingnow_tinyclipboardmanager"/>
+       <item drawable="org_dmfs_carddav_sync"/>
+       <item drawable="org_dmfs_caldav_lib"/>
  
 </resources>
