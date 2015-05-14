@@ -332,6 +332,7 @@
       <item>org_cyanogenmod_audiofx</item>
       <item>com_google_android_apps_authenticator2</item>
       <item>com_classting</item>
+      <item>com_intsig_bizcardreader</item>
    </string-array>
 
 </resources>
