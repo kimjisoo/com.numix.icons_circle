@@ -328,6 +328,7 @@
       <item>com_catchingnow_tinyclipboardmanager</item>
       <item>org_dmfs_carddav_sync</item>
       <item>org_dmfs_caldav_lib</item>
+      <item>org_adaway</item>
    </string-array>
 
 </resources>

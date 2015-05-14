@@ -503,6 +503,7 @@
                 <item component="ComponentInfo{org.dmfs.carddav.Sync/org.dmfs.carddav.lib.AccountChooserActivity}" drawable="org_dmfs_carddav_sync"/>
                 <item component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.carddav.lib.AccountChooserActivity}" drawable="org_dmfs_caldav_lib"/>
                 <item component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.caldav.authenticator.WebCatAuthenticatorActivity}" drawable="org_dmfs_caldav_lib"/>
+                <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="org_adaway"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
