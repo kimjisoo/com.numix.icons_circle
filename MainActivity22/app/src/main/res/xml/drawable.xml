@@ -316,5 +316,6 @@
        <item drawable="org_pocketworkstation_pckeyboard"/>
        <item drawable="com_fsck_k9"/>
        <item drawable="net_nurik_roman_muzei"/>
+       <item drawable="com_kervala_comicsreader"/>
  
 </resources>
