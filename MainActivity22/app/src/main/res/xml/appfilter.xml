@@ -505,6 +505,7 @@
                 <item component="ComponentInfo{org.dmfs.caldav.lib/org.dmfs.caldav.authenticator.WebCatAuthenticatorActivity}" drawable="org_dmfs_caldav_lib"/>
                 <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="org_adaway"/>
                 <item component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.ActivityMusic}" drawable="org_cyanogenmod_audiofx"/>
+                <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="com_google_android_apps_authenticator2"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />

@@ -330,6 +330,7 @@
       <item>org_dmfs_caldav_lib</item>
       <item>org_adaway</item>
       <item>org_cyanogenmod_audiofx</item>
+      <item>com_google_android_apps_authenticator2</item>
    </string-array>
 
 </resources>
