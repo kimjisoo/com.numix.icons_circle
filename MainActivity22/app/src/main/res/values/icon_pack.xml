@@ -329,6 +329,7 @@
       <item>org_dmfs_carddav_sync</item>
       <item>org_dmfs_caldav_lib</item>
       <item>org_adaway</item>
+      <item>org_cyanogenmod_audiofx</item>
    </string-array>
 
 </resources>
