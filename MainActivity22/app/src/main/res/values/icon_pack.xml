@@ -333,6 +333,7 @@
       <item>com_google_android_apps_authenticator2</item>
       <item>com_classting</item>
       <item>com_intsig_bizcardreader</item>
+      <item>org_pocketworkstation_pckeyboard</item>
    </string-array>
 
 </resources>
