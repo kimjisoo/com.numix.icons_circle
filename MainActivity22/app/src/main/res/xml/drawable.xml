@@ -311,5 +311,6 @@
        <item drawable="org_adaway"/>
        <item drawable="org_cyanogenmod_audiofx"/>
        <item drawable="com_google_android_apps_authenticator2"/>
+       <item drawable="com_classting"/>
  
 </resources>
