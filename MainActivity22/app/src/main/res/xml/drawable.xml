@@ -314,5 +314,6 @@
        <item drawable="com_classting"/>
        <item drawable="com_intsig_bizcardreader"/>
        <item drawable="org_pocketworkstation_pckeyboard"/>
+       <item drawable="com_fsck_k9"/>
  
 </resources>
