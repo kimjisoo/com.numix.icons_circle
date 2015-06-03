@@ -516,6 +516,7 @@
                 <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.Poche}" drawable="fr_gaulupeau_apps_inthepoche"/>
                 <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}" drawable="at_bitfire_davdroid"/>
                 <item component="ComponentInfo{ch.corten.aha.worldclock/ch.corten.aha.worldclock.WorldClockActivity}" drawable="ch_corten_aha_worldclock"/>
+                <item component="ComponentInfo{com.javiersantos.mlmanager/com.javiersantos.mlmanager.MainActivity}" drawable="com_javiersantos_mlmanager"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
