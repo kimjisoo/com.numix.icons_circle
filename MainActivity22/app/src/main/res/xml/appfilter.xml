@@ -517,6 +517,7 @@
                 <item component="ComponentInfo{at.bitfire.davdroid/at.bitfire.davdroid.ui.MainActivity}" drawable="at_bitfire_davdroid"/>
                 <item component="ComponentInfo{ch.corten.aha.worldclock/ch.corten.aha.worldclock.WorldClockActivity}" drawable="ch_corten_aha_worldclock"/>
                 <item component="ComponentInfo{com.javiersantos.mlmanager/com.javiersantos.mlmanager.MainActivity}" drawable="com_javiersantos_mlmanager"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.LeanbackActivity}" drawable="com_dailymotion_dailymotion"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
