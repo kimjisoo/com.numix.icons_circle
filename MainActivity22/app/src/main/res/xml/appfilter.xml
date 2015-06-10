@@ -41,6 +41,7 @@
 		<item component="ComponentInfo{com.pushbullet.android/com.pushbullet.android.ui.LaunchActivity}" drawable="rename_me_pushbullet"/>
 		<item component="ComponentInfo{com.iconology.comics/com.iconology.comics.app.ComicsActivity}" drawable="com_iconology_comics"/>
 		<item component="ComponentInfo{com.iconology.comics/com.iconology.ui.navigation.RouterActivity}" drawable="com_iconology_comics"/>
+		<item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="com_iconology_comics"/>
 		<item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="rename_me_power_amp_unlocker"/>
 		<item component="ComponentInfo{com.maxmpz.audioplayer.unlock/com.maxmpz.audioplayer.unlock.LauncherRedirectorActivity}" drawable="rename_me_power_amp_unlocker"/>
 		<item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.PowerAMPActivity}" drawable="rename_me_power_amp_unlocker"/>
