@@ -32,6 +32,7 @@
 		<item component="ComponentInfo{com.utorrent.web/com.bittorrent.android.remote.web.Login}" drawable="rename_me_utorrent"/>
 		<item component="ComponentInfo{com.utorrent.web/com.utorrent.web.Login}" drawable="rename_me_utorrent"/>
 		<item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="org_mozilla_firefox"/>
+		<item component="ComponentInfo{org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.App}" drawable="org_mozilla_firefox"/>
 		<item component="ComponentInfo{com.shazam.android/com.shazam.android.Splash}" drawable="com_shazam_android"/>
 		<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.Splash}" drawable="com_shazam_android"/>
 		<item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="com_shazam_android"/>
