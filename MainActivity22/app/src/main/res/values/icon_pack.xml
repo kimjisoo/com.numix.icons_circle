@@ -343,6 +343,12 @@
       <item>ch_corten_aha_worldclock</item>
       <item>com_javiersantos_mlmanager</item>
       <item>com_dailymotion_dailymotion</item>
+      <item>apps_acdisplay</item>
+      <item>apps_barcoo</item>
+      <item>apps_octodroid</item>
+      <item>games_2048</item>
+      <item>org_mozilla_mozstumbler</item>
+      <item>com_plusonelabs_calendar</item>
    </string-array>
 
 </resources>

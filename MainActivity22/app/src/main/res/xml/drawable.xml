@@ -323,5 +323,11 @@
        <item drawable="ch_corten_aha_worldclock"/>
        <item drawable="com_javiersantos_mlmanager"/>
        <item drawable="com_dailymotion_dailymotion"/>
+       <item drawable="apps_acdisplay"/>
+       <item drawable="apps_barcoo"/>
+       <item drawable="apps_octodroid"/>
+       <item drawable="games_2048"/>
+       <item drawable="org_mozilla_mozstumbler"/>
+       <item drawable="com_plusonelabs_calendar"/>
  
 </resources>

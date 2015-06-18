@@ -520,6 +520,15 @@
                 <item component="ComponentInfo{ch.corten.aha.worldclock/ch.corten.aha.worldclock.WorldClockActivity}" drawable="ch_corten_aha_worldclock"/>
                 <item component="ComponentInfo{com.javiersantos.mlmanager/com.javiersantos.mlmanager.MainActivity}" drawable="com_javiersantos_mlmanager"/>
                 <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.LeanbackActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.LbSearchActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.ChannelActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.VideoPlayerActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="apps_acdisplay"/>
+                <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="apps_barcoo"/>
+                <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="apps_octodroid"/>
+                <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="games_2048"/>
+                <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="org_mozilla_mozstumbler"/>
+                <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="com_plusonelabs_calendar"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
