@@ -536,6 +536,7 @@
                 <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="org_mozilla_mozstumbler"/>
                 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="com_plusonelabs_calendar"/>
                 <item component="ComponentInfo{de.yaacc/de.yaacc.browser.ServerListActivity}" drawable="de_yaacc"/>
+                <item component="ComponentInfo{de.sudoq/de.sudoq.controller.menus.SplashActivity}" drawable="de_sudoq"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
