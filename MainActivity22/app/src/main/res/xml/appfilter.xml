@@ -523,12 +523,19 @@
                 <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.LbSearchActivity}" drawable="com_dailymotion_dailymotion"/>
                 <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.ChannelActivity}" drawable="com_dailymotion_dailymotion"/>
                 <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.VideoPlayerActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.PlaybackOverlayActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.InterstitialActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.IntentRoutingActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.VideoPlayerActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.SearchRoutingActivity}" drawable="com_dailymotion_dailymotion"/>
+                <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.activity.NativeSettingsActivity}" drawable="com_dailymotion_dailymotion"/>
                 <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="apps_acdisplay"/>
                 <item component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}" drawable="apps_barcoo"/>
                 <item component="ComponentInfo{com.gh4a/com.gh4a.activities.Github4AndroidActivity}" drawable="apps_octodroid"/>
                 <item component="ComponentInfo{com.uberspot.a2048/com.uberspot.a2048.MainActivity}" drawable="games_2048"/>
                 <item component="ComponentInfo{org.mozilla.mozstumbler/org.mozilla.mozstumbler.client.navdrawer.MainDrawerActivity}" drawable="org_mozilla_mozstumbler"/>
                 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="com_plusonelabs_calendar"/>
+                <item component="ComponentInfo{de.yaacc/de.yaacc.browser.ServerListActivity}" drawable="de_yaacc"/>
 
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />

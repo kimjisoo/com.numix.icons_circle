@@ -329,5 +329,6 @@
        <item drawable="games_2048"/>
        <item drawable="org_mozilla_mozstumbler"/>
        <item drawable="com_plusonelabs_calendar"/>
+       <item drawable="de_yaacc"/>
  
 </resources>
