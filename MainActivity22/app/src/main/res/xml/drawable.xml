@@ -331,5 +331,6 @@
        <item drawable="com_plusonelabs_calendar"/>
        <item drawable="de_yaacc"/>
        <item drawable="de_sudoq"/>
+       <item drawable="de_blinkt_openvpn"/>
  
 </resources>
