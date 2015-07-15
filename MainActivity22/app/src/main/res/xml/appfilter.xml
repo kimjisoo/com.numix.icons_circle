@@ -525,6 +525,7 @@
                 <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.leanback.activity.VideoPlayerActivity}" drawable="com_dailymotion_dailymotion"/>
                 <item component="ComponentInfo{de.sudoq/de.sudoq.controller.menus.SplashActivity}" drawable="de_sudoq"/>
                 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="com_plusonelabs_calendar"/>
+                <item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="com_ugetdm_uget"/>
   
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
