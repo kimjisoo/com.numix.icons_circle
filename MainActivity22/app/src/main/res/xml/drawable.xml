@@ -326,4 +326,5 @@
        <item drawable="de_sudoq"/> 
        <item drawable="com_plusonelabs_calendar"/>
        <item drawable="com_ugetdm_uget"/>
+       <item drawable="org_droidupnp"/>
 </resources>
