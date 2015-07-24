@@ -527,6 +527,7 @@
                 <item component="ComponentInfo{com.plusonelabs.calendar/com.plusonelabs.calendar.WidgetConfigurationActivity}" drawable="com_plusonelabs_calendar"/>
                 <item component="ComponentInfo{com.ugetdm.uget/com.ugetdm.uget.MainActivity}" drawable="com_ugetdm_uget"/>
                 <item component="ComponentInfo{org.droidupnp/org.droidupnp.Main}" drawable="org_droidupnp"/>
+                <item component="ComponentInfo{biz.gyrus.yaab/biz.gyrus.yaab.MainActivity}" drawable="biz_gyrus_yaab"/>
   
     <!-- Add the info for your app below -->
 	<item component="ComponentInfo{com.numix.icons_circle/com.numix.icons_circle.activity.MainActivity}" drawable="icon" />
